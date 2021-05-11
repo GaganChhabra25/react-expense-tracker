@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    background-color: lightblue;
+    align-items: center;
+}
+
+.container img {
+    width: 70px;
+    height: 70px;
+    margin-right: 40%;
+    padding: 0;
+}
